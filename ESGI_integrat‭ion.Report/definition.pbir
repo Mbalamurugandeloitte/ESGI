@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../ESGI_integrat‭ion.Dataset"
+    },
+    "byConnection": null
+  }
+}
